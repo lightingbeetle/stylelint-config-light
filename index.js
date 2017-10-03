@@ -3,6 +3,9 @@ module.exports = {
     "stylelint-config-standard",
     "stylelint-config-sass-guidelines",
   ],
+  "plugins": [
+    "stylelint-scss"
+  ],
   "rules": {
     "at-rule-empty-line-before": [
       "always",
