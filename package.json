@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-light",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Light config for stylelint",
   "main": "index.js",
   "scripts": {
